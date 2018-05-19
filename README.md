@@ -4,7 +4,7 @@
 
 请勿下载yht.js到本地引用，当yht.js进行版本迭代后可能会产生不可预知的bug。
 在你的页面引入yht.js，同时，如果你的页面编码不是UTF-8，请添加charset="utf-8"属性。
-
+对接时必须引入jQuery!
 ``` <script type="text/javascript" charset="utf-8" src="https://api.yunhetong.com/api_page/api/yht.js"></script> ```
 
 # 手机端引用:
