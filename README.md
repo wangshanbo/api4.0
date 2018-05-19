@@ -1,10 +1,12 @@
 # api4.0
 云合同API4.0对接文档
+
+# 提示:对接时必须引入jQuery!
 # 引用云合同 SDK JS文件
 
 请勿下载yht.js到本地引用，当yht.js进行版本迭代后可能会产生不可预知的bug。
 在你的页面引入yht.js，同时，如果你的页面编码不是UTF-8，请添加charset="utf-8"属性。
-对接时必须引入jQuery!
+
 ``` <script type="text/javascript" charset="utf-8" src="https://api.yunhetong.com/api_page/api/yht.js"></script> ```
 
 # 手机端引用:
